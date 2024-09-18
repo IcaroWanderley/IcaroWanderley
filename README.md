@@ -14,4 +14,4 @@
 
 ## Linguagens mais usadas
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroWanderley&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroWanderley&layout=compact&theme=radical&exclude_repo=dio-lab-open-source)
