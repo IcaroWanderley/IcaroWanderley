@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, Icaro Wanderley! 👋
 
-<!--
-**IcaroWanderley/IcaroWanderley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+- 🌱 Atualmente estou aprendendo Engenharia de Dados e Multicloud
+- 👯 Estou procurando colaborar em Desenvolvimento WEB e Cloud
+- 🤔 Estou procurando ajuda com Cybersegurança
+- 📫 Como me encontrar: iwss@cin.ufpe.br 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=IcaroWanderley&show_icons=true&theme=radical)
+
+## Linguagens mais usadas
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroWanderley&layout=compact&theme=radical)
